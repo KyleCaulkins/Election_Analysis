@@ -24,9 +24,9 @@ The following is the summary of election outcomes for the US concressional preci
 
   ![County_Breakdown](/Analysis/county_breakdown.png)
   
-  ![PYCounty_Breakdown1](/Analysis/py_county_breakdown.png)
-  
   ![PYCounty_Breakdown2](/Analysis/py_county_breakdown2.png)
+  
+  ![PYCounty_Breakdown1](/Analysis/py_county_breakdown.png)
   
 * Largest County Turnout
 
@@ -38,9 +38,9 @@ The following is the summary of election outcomes for the US concressional preci
 
   ![Candidate_Breakdown](/Analysis/candidate_breakdown.png)
   
-  ![PYCandidate_Breakdown1](/Analysis/py_candidate_breakdown.png)
-  
   ![PYCandidate_Breakdown2](/Analysis/py_candidate_breakdown2.png)
+  
+  ![PYCandidate_Breakdown1](/Analysis/py_candidate_breakdown.png)
   
 * Winning Candidate  
 
