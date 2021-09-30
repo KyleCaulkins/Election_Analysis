@@ -9,10 +9,20 @@ The purpose of this analysis is to assist a Colorado Board of Elections employee
 The following is the summary of election outcomes for the US concressional precinct. This summary is output from the python script. Each outcome within the summary is further explained with areas of relavent python script.
 
 ![Election_Results](/Analysis/election_results.png)
+
 ![Complete_Python_Script](/PyPoll_Challenge.py)
 
 * Total Votes Cast
 
+![Total_Votes](/Analysis/total_votes.png)
+
+![County_Breakdown](/Analysis/county_breakdown.png)
+
+![County_High_Votes](/Analysis/largest_county_vote.png)
+
+![Candidate_Breakdown](/Analysis/candidate_breakdown.png)
+
+![Winning_Candidate](/Analysis/winning_candidate_.png)
 
 -How many votes were cast in this congressional election?
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
