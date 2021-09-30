@@ -6,7 +6,9 @@ The purpose of this analysis is to assist a Colorado Board of Elections employee
 
 ## Election Audit Results
 
-The following is a list of election outcomes, summarized by the python script, and parts of the script related to each outcome.
+The following is the summary of election outcomes for the US concressional precinct. This summary is output from the python script. Each outcome within the summary is further explained with areas of relavent python script.
+* Total Votes Cast
+
 
 -How many votes were cast in this congressional election?
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
