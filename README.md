@@ -20,6 +20,8 @@ The following is the summary of election outcomes for the US concressional preci
   
   ![PYTotal_Votes](/Analysis/py_total_votes.png)
   
+  The data for total votes and the rest of the analysis comes from a .csv file. A *for* loop is used to count votes row by row. The total count for this variable is displayed as     total votes. 
+  
 * County Breakdown  
 
   ![County_Breakdown](/Analysis/county_breakdown.png)
@@ -28,11 +30,15 @@ The following is the summary of election outcomes for the US concressional preci
   
   ![PYCounty_Breakdown1](/Analysis/py_county_breakdown.png)
   
+  An *if not in* statement is used to add each county to the list of counties. Votes are then tallied by county as a *for* loop is used. The percentage of votes from each county   is calculated within this for loop as well.
+  
 * Largest County Turnout
 
   ![County_High_Votes](/Analysis/largest_county_vote.png)
   
   ![PYCounty_High_Votes](/Analysis/py_winning_county.png)
+  
+  The county with the largest voter turnout is determined using an *if and* statement that selects the county with the highest vote count.
   
 * Candidate Breakdown  
 
@@ -42,17 +48,16 @@ The following is the summary of election outcomes for the US concressional preci
   
   ![PYCandidate_Breakdown1](/Analysis/py_candidate_breakdown.png)
   
+  The candidate breakdown is performed in a very similar way as the county breakdown. An *if not in* statement and a *for* loop are used to add candidate names, tally votes, and   to calculate percent of the total vote.
+  
 * Winning Candidate  
 
   ![Winning_Candidate](/Analysis/winning_candidate.png)
   
   ![PYWinning_Candidate](/Analysis/py_winning_candidate.png)
+  
+  The winning candidate is calculated in a very similar way as the county with the largest voter turnout. An *if and* statement is used to determine the candidate with the         highest vote count.
 
--How many votes were cast in this congressional election?
--Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
--Which county had the largest number of votes?
--Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
--Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ## Election Audit Summary
 
