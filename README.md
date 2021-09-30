@@ -18,21 +18,35 @@ The following is the summary of election outcomes for the US concressional preci
 
   ![Total_Votes](/Analysis/total_votes.png)
   
+  ![PYTotal_Votes](/Analysis/py_total_votes.png)
+  
 * County Breakdown  
 
   ![County_Breakdown](/Analysis/county_breakdown.png)
+  
+  ![PYCounty_Breakdown1](/Analysis/py_county_breakdown.png)
+  
+  ![PYCounty_Breakdown2](/Analysis/py_county_breakdown2.png)
   
 * Largest County Turnout
 
   ![County_High_Votes](/Analysis/largest_county_vote.png)
   
+  ![PYCounty_High_Votes](/Analysis/py_winning_county.png)
+  
 * Candidate Breakdown  
 
   ![Candidate_Breakdown](/Analysis/candidate_breakdown.png)
   
+  ![PYCandidate_Breakdown1](/Analysis/py_candidate_breakdown.png)
+  
+  ![PYCandidate_Breakdown2](/Analysis/py_candidate_breakdown2.png)
+  
 * Winning Candidate  
 
   ![Winning_Candidate](/Analysis/winning_candidate.png)
+  
+  ![PYWinning_Candidate](/Analysis/py_winning_candidate.png)
 
 -How many votes were cast in this congressional election?
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
