@@ -17,12 +17,20 @@ The following is the summary of election outcomes for the US concressional preci
 * Total Votes Cast
 
   ![Total_Votes](/Analysis/total_votes.png)
+  
+* County Breakdown  
 
   ![County_Breakdown](/Analysis/county_breakdown.png)
+  
+* Largest County Turnout
 
   ![County_High_Votes](/Analysis/largest_county_vote.png)
+  
+* Candidate Breakdown  
 
   ![Candidate_Breakdown](/Analysis/candidate_breakdown.png)
+  
+* Winning Candidate  
 
   ![Winning_Candidate](/Analysis/winning_candidate.png)
 
