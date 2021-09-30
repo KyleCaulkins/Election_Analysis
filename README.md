@@ -7,6 +7,7 @@ The purpose of this analysis is to assist a Colorado Board of Elections employee
 ## Election Audit Results
 
 The following is the summary of election outcomes for the US concressional precinct. This summary is output from the python script. Each outcome within the summary is further explained with areas of relavent python script.
+
 ![Election_Results](/Analysis/election_results.png)
 ![Complete_Python_Script](/PyPoll_Challenge.py)
 
