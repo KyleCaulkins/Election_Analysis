@@ -22,7 +22,7 @@ The following is the summary of election outcomes for the US concressional preci
 
 ![Candidate_Breakdown](/Analysis/candidate_breakdown.png)
 
-![Winning_Candidate](/Analysis/winning_candidate_.png)
+![Winning_Candidate](/Analysis/winning_candidate.png)
 
 -How many votes were cast in this congressional election?
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
