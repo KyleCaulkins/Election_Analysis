@@ -6,7 +6,7 @@ The purpose of this analysis is to assist a Colorado Board of Elections employee
 
 ## Election Audit Results
 
-The following is the summary of election outcomes for the US concressional precinct. This summary is output from the python script. Each outcome within the summary is further explained with areas of relavent python script.
+A total of 369,711 votes were counted in this congressional election. Jefferson, Denver, and Arapahoe counties are the three counties within this precint. Denver county had the majority of votes cast in the precint with 82.8% of total votes. The three candidates that recieved votes were Charles Casper Stockham, Diana Degette, and Ryman Anthony Doane. The analysis ultimately found Diana DeGette to be the winning candidate with 73.8% of the vote. The following includes an overall summary of election and further information on how each outcome was calculated using Python. 
 
 * Election Resutls Summary
 
