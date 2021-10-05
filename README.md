@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Overview 
+## Overview of Election Audit
 
 The purpose of this analysis is to assist a Colorado Board of Elections employee in an audit of election results. The election results of interest are for a US congressional precinct. The data being used is a tabulated agglomeration of mail-in , punch cards, and direct recording electronic ballots. Typically, the analysis is performed using Microsoft Excel, but the process has now been automated using Python. The analysis provides total votes, votes by county, votes per candidate, and a winner of the election.
 
